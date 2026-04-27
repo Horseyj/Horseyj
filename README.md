@@ -1,3 +1,6 @@
-> Move fast and break things.
-
-Indie hacker. Shipping things, occasionally finishing them.
+<p align="center">
+  <samp>
+    <a href="#">site</a> .
+    <a href="https://github.com/Horseyj/claude-fleet">claude-fleet</a>
+  </samp>
+</p>
